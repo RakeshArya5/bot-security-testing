@@ -1,4 +1,4 @@
-# Module 2 — Secure Customer Service Bot
+# Secure Customer Service Bot
 
 **Course:** GenAI & AI Engineering for Testers  
 **Module:** 2 — Prompt Engineering as a Testing Skill  
